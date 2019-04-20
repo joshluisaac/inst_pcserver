@@ -86,5 +86,17 @@ public class ServiceLookup {
     public Set<String> getFailedServices() {
         return failedServices;
     }
+    
+    
+    /**
+     * Returns a {@link Map} of successful services.
+     * 
+     * @return passed services.
+     */
+    public Map<String, Service> getPassedServices() {
+        return servicesMap;
+    }
+    
+    
 
 }
