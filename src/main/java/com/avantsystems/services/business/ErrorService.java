@@ -1,4 +1,4 @@
-package com.avantsystems.business.services;
+package com.avantsystems.services.business;
 
 public class ErrorService {
 
