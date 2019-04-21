@@ -1,4 +1,4 @@
-package com.avantsystems;
+package com.avantsystems.services;
 
 public enum ServiceType {
     
