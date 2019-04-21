@@ -1,6 +1,6 @@
 package com.avantsystems.services.business;
 
-import com.avantsystems.Service;
+import com.avantsystems.services.Service;
 
 public class BatchProcessService implements Service  {
 
