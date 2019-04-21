@@ -1,4 +1,4 @@
-package com.avantsystems.system.services;
+package com.avantsystems.services.system;
 
 import com.avantsystems.services.Service;
 

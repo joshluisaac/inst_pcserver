@@ -8,7 +8,7 @@ import com.avantsystems.services.ServiceLookup;
 import com.avantsystems.services.ServiceLookupManager;
 import com.avantsystems.services.ServiceType;
 import com.avantsystems.services.business.EmailService;
-import com.avantsystems.system.services.SqlMapReadWriteProvider;
+import com.avantsystems.services.system.SqlMapReadWriteProvider;
 
 public class ServiceLookupManager_Spec {
     
