@@ -1,4 +1,4 @@
-package com.avantsystems;
+package com.avantsystems.services;
 
 import java.util.HashMap;
 import java.util.Map;
