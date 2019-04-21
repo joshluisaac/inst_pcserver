@@ -7,7 +7,7 @@ import org.junit.Test;
 import com.avantsystems.ServiceLookup;
 import com.avantsystems.ServiceLookupManager;
 import com.avantsystems.ServiceType;
-import com.avantsystems.business.services.EmailService;
+import com.avantsystems.services.business.EmailService;
 import com.avantsystems.system.services.SqlMapReadWriteProvider;
 
 public class ServiceLookupManager_Spec {
