@@ -1,6 +1,9 @@
 package com.avantsystems;
 
 import java.util.Properties;
+import com.avantsystems.services.ServiceLookup;
+import com.avantsystems.services.ServiceLookupManager;
+import com.avantsystems.services.ServiceType;
 
 public class ServiceEngine {
 	
