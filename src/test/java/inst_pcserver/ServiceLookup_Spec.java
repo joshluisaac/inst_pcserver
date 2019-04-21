@@ -6,7 +6,7 @@ import org.hamcrest.CoreMatchers;
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import com.avantsystems.ServiceLookup;
+import com.avantsystems.services.ServiceLookup;
 import com.avantsystems.services.business.BatchProcessService;
 import com.avantsystems.services.business.EmailService;
 import com.profitera.util.Utilities;
