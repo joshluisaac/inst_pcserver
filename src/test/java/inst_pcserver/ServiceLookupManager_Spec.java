@@ -4,9 +4,9 @@ package inst_pcserver;
 import org.hamcrest.CoreMatchers;
 import org.junit.Assert;
 import org.junit.Test;
-import com.avantsystems.ServiceLookup;
-import com.avantsystems.ServiceLookupManager;
-import com.avantsystems.ServiceType;
+import com.avantsystems.services.ServiceLookup;
+import com.avantsystems.services.ServiceLookupManager;
+import com.avantsystems.services.ServiceType;
 import com.avantsystems.services.business.EmailService;
 import com.avantsystems.system.services.SqlMapReadWriteProvider;
 
